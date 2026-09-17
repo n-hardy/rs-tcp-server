@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    shared::test("Client.rs".into());
 }
